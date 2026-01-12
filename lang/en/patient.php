@@ -1,0 +1,27 @@
+<?php
+return [
+    'patients' => 'Patients',
+    'email' => 'Email',
+    'name' => 'Patient Name',
+    'gender' => 'Gender',
+    'age' => 'Age',
+    'address' => 'Address',
+    'phone' => 'Phone Number',
+    'note' => 'Note',
+    'fileNumber' => 'File Number',
+    'options' => 'Options',
+    'delete' => 'Delete',
+    'show' => 'Show',
+    'test' => 'Tests',
+    'rays' => 'X-Rays',
+    'inspection' => 'Inspection',
+    'medicine' => 'Medicine',
+    'patientInfo' => 'Patient Information',
+    'type' => 'Type',
+    'result' => 'Result',
+    'hospital' => 'Hospital',
+    'date' => 'Date',
+    'quantity' => 'Quantity',
+    'duration' => 'Duration',
+    'case_number' => 'Case number'
+];
